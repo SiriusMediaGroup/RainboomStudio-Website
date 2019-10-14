@@ -2,4 +2,4 @@
 This is a temporary website until [Sirius Media Group](http://SiriusMediaGroup.com) Fix their server.  
 Thanks you Mister sir dude who DDoS Them. We're all not loving you here.  
   
-  ![Rbs](https://cdn.asthriona.com/rainboom-uk-nobg.png)
+  ![Rbs](https://cdn.asthriona.com/rbshq500x93.png)
