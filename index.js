@@ -16,3 +16,6 @@ function onRequest(req, res){
     })
 }
 http.createServer(onRequest).listen(port)
+console.log('Server is running.');
+console.log('Production: https://RainboomStudio.com');
+console.loh('dev: http:/localhost:3000')
